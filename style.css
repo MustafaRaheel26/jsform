@@ -1,0 +1,53 @@
+*{
+    background-color: black;
+}
+.FormBox{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 30px;
+    justify-content: center;
+    margin: 30px;
+}
+
+h1{
+    color: aliceblue;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#userName{
+    padding: 20px;
+    margin: 15px;
+    color: black;
+    background-color: antiquewhite;
+}
+
+#email{
+    padding: 20px;
+    margin: 15px;
+    color: black;
+    background-color: antiquewhite
+}
+
+#nicNumber{
+    padding: 20px;
+    margin: 15px;
+    color: black;
+    background-color: antiquewhite
+}
+
+#password{
+    padding: 20px;
+    margin: 15px;
+    color: black;
+    background-color: antiquewhite
+}
+.mt-4{
+    padding: 20px;
+    margin: 15px;
+    color: white;
+    background-color: red
+
+}
